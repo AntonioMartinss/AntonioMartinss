@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2022<br>📚Atualmente aprendendo sobre React.js </p>
+<p align="left">✨ Programando desde 2022<br>📚Desenvolvendo o Grão & Co </p>
 
 ###
 
