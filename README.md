@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2022<br>📚Desenvolvendo o Grão & Co </p>
+<p align="left">✨ Programando desde 2022<br>📚Desenvolvendo o <a href="github.com/DevAntonioHub/grao-co/">Grão & Co.</a> </p>
 
 ###
 
