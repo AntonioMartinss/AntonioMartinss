@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Me chamo Antônio e sou Desenvolvedor Web 💻📚</h1>
+<h1 align="left">Olá! Me chamo Antônio e sou Desenvolvedor Full Stack 💻📚</h1>
 
 ###
 
