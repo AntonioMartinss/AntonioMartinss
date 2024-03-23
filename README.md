@@ -1,12 +1,12 @@
-<h1 align="left">Olá! Me chamo Antônio e sou Desenvolvedor Full Stack 💻📚</h1>
+<h1 align="left">Hi! My name is Antônio and im Full Stack Developer 💻📚</h1>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Programando desde 2022<br>
+<p align="left">👨‍💻 Programming since 2022 <br>
 
 ###
 
