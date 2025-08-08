@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</h2>
+<h2 align="left"<a href="https://www.linkedin.com/in/antoniomsouza2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/></h2>
 
 ###
 
