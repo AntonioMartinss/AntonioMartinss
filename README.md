@@ -2,8 +2,6 @@
 
 ###
 
-<h2 align="left"<img onclick="https://www.linkedin.com/in/antoniomsouza2/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></h2>
-
 ###
 
 <p align="left">👨‍💻 Programming since 2022 <br>
